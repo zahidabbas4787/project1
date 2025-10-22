@@ -25,5 +25,8 @@ public class AppUtil {
     public void diplay1(){
         System.out.println("hello raza");
     }
+    public void add(){
+       System.out.println("hgdhdgd");
+    }
 
 }

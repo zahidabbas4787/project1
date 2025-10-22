@@ -26,4 +26,9 @@ public class AppUtil {
         System.out.println("hello raza");
     }
 
+    public void add(){
+       System.out.println("hgdhdgd");
+    }
+
+
 }

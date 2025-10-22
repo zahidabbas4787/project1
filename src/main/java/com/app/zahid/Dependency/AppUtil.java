@@ -22,4 +22,8 @@ public class AppUtil {
     public void diplay(){
         System.out.println("hello zahid");
     }
+    public void diplay1(){
+        System.out.println("hello raza");
+    }
+
 }

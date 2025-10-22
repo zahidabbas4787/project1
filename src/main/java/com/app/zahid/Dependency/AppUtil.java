@@ -19,4 +19,7 @@ public class AppUtil {
     public List<String> toList(String list) {
        return Arrays.stream(list.split(",")).toList();
     }
+    public void diplay(){
+        System.out.println("hello zahid");
+    }
 }

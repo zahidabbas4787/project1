@@ -28,9 +28,6 @@ public class AppUtil {
 
     public void add(){
        System.out.println("hgdhdgd");
-       System.out.println("HELLO");
-       System.out.println("hello world");
-       System.out.println("zahid");
 
     }
 
